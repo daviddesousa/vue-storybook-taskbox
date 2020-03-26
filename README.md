@@ -2,6 +2,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/71681960-4178-4b31-b25d-2d2af1d5e5b3/deploy-status)](https://app.netlify.com/sites/brave-allen-fd60ae/deploys)
 
+## Tutorial
+Based on https://www.learnstorybook.com/intro-to-storybook/vue/en/get-started
+
 ## Project setup
 ```
 npm install
